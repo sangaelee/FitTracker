@@ -17,7 +17,7 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 * Calculate BMI using Metric or Imperial unit
 * Check the weather
 
-## Developing Environments
+## DevelopingEnvironments
 - Build Gradle : 3.2.1
 - Compile/ Target SDK version : 28
 
@@ -25,7 +25,7 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 
 ![Minion](https://github.com/sangaelee/FitTracker/blob/master/app/src/main/res/drawable/calorie.png)
 
-## How to
+## HowTo
 - Change views using Fragments
 - Control menus using Navigation Drawer
 - SQLite, Content Providefor for Database
