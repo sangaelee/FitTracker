@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Developing Environments](#environments)
+- [Developing Environments](#developing environments)
 - [How to](#How to)
 
 ## Introduction
