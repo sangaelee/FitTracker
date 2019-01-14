@@ -24,7 +24,7 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 #### ScreenShot
 
 ![Minion](https://github.com/sangaelee/FitTracker/blob/master/app/src/main/res/drawable/calorie.png)
-![Minion](https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png = 100X100)
+![Minion](https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png = 100x100)
 ![Minion](https://github.com/sangaelee/FitTracker/blob/master/app/src/main/res/drawable/calorie.png)
     
         FitTracker/screenshot/Screenshot_1543385040.png
