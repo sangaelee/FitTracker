@@ -31,4 +31,4 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 - Use openWeather Api
 
 #### ScreenShot
-<img src="https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png" width="100">
+<img src="https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png" width="150">
