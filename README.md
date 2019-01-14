@@ -4,7 +4,7 @@ https://img.shields.io/cocoapods/p/:packageName.svg
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Developing Environments](#developingenvironments)
+- [Developing Environments](#environments)
 - [How to](#Howto)
 
 ## Introduction
@@ -17,7 +17,7 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 * Calculate BMI using Metric or Imperial unit
 * Check the weather
 
-## DevelopingEnvironments
+## Environments
 - Build Gradle : 3.2.1
 - Compile/ Target SDK version : 28
 
