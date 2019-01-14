@@ -16,7 +16,7 @@
 Create Fitness Tracker Record and Step Tracker using Sensor 
 
 ## Features
-Create Fitness Tracker Record and Step Tracker using Sensor 
+* Create Fitness Tracker Record and Step Tracker using Sensor 
 
 #### ScreenShot
 
