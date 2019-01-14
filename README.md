@@ -1,5 +1,5 @@
 # FitTracker
-https://img.shields.io/cocoapods/p/:packageName.svg
+
 ## Table of Contents
 
 - [Introduction](#introduction)
