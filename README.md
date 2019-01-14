@@ -21,13 +21,6 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 - Build Gradle : 3.2.1
 - Compile/ Target SDK version : 28
 
-#### ScreenShot
-
-![Minion](https://github.com/sangaelee/FitTracker/blob/master/app/src/main/res/drawable/calorie.png)
-![Minion](https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png = 100x100)
-<img src="https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png" width="48">
-        
-
 ## HowTo
 - Change views using Fragments
 - Control menus using Navigation Drawer
@@ -36,3 +29,6 @@ Create Fitness Tracker Record and Step Tracker using Sensor
 - Send Step count using Broadcast Service
 - Draw charts using google chart Api
 - Use openWeather Api
+
+#### ScreenShot
+<img src="https://github.com/sangaelee/FitTracker/blob/master/screenshot/Screenshot_1543385040.png" width="100">
