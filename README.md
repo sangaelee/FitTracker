@@ -4,8 +4,8 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Developing Environments](#developing environments)
-- [How to](#How to)
+- [Developing Environments](#developingenvironments)
+- [How to](#Howto)
 
 ## Introduction
 Create Fitness Tracker Record and Step Tracker using Sensor 
